@@ -1,0 +1,114 @@
+body{
+    background-color: gainsboro;
+}
+header{
+    width: 99.4%;
+    height: 250px;
+    background-color: forestgreen;
+    float: left;
+    margin: 0.75%;
+    border-radius: 5px;
+}
+aside{
+    width: 20%;
+    height: 750px;
+    float: left;
+    background-color:   forestgreen;
+    margin-left: 0.75%;
+    border-radius: 5px;
+}
+main{
+    width: 70%;
+    height: 750px;
+    background-color: rgba(0, 128, 0, 0.63);
+    float: right;
+    margin-right: 0.01%;
+    border-radius: 5px;
+}
+#painel{
+    width: 60%;
+    height: 150px;
+    margin: 10%;
+    background-color: darkseagreen;
+    border-radius: 10px;
+    text-align: center;
+}
+#faixa2{
+    width: 80%;
+    height: 225px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 0.50%;
+}
+#horario{
+    width: 90%;
+    height: 80%;
+    margin-right: 10%;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-top: 7%;
+    
+}
+footer{
+    width: 99.4%;
+    height: 100px;
+    background-color: forestgreen;
+    float: left;
+    margin: 0.75%;
+    border-radius: 5px;
+    text-align:center;
+}
+p{
+    font-size: 20px;
+}
+@media (max-width:920px)
+{
+    #faixa2{
+        width:80%;
+        height: 100px;
+        border-radius: 10px;
+        margin-left: 10%;
+        margin-top: 0.50%;
+    }
+    #horario{
+        width: 80%;
+        height: 80%;
+        margin-right: 10%;
+        border-radius: 5px;
+        margin-left: 5%;
+        margin-top: 7%;
+        
+    }
+    header{
+        width: 99.4%;
+        height: 150px;
+        background-color: forestgreen;
+        float: left;
+        margin: 0.75%;
+        border-radius: 5px;
+    }
+    aside{
+        width: 20%;
+        height: 750px;
+        float: left;
+        background-color:   forestgreen;
+        margin-left: 0.75%;
+        border-radius: 5px;
+    }
+    main{
+        width: 70%;
+        height: 750px;
+        background-color: rgba(0, 128, 0, 0.63);
+        float: right;
+        margin-right: 0.01%;
+        border-radius: 5px;
+    }
+    #painel{
+        width: 60%;
+        height: 150px;
+        margin: 10%;
+        background-color: darkseagreen;
+        border-radius: 10px;
+        text-align: center;
+    }
+}

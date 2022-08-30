@@ -1,0 +1,61 @@
+body{
+    background-color: gainsboro;
+}
+header{
+    width: 99.4%;
+    height: 250px;
+    background-color: forestgreen;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+}
+aside{
+    width: 20%;
+    height: 750px;
+    float: left;
+    background-color:   forestgreen;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+main{
+    width: 70%;
+    height: 750px;
+    background-color: rgba(0, 128, 0, 0.63);
+    float: right;
+    margin-right: 1px;
+    border-radius: 5px;
+}
+#painel{
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    background-color: darkseagreen;
+    border-radius: 10px;
+    text-align: center;
+}
+footer{
+    width: 99.4%;
+    height: 100px;
+    background-color: forestgreen;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+    text-align:center;
+}
+#contatos{
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-top: 4%;
+}
+#contato{
+    width: 90%;
+    height: 80%;
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 5px;
+}
+p{
+    font-size: 20px;
+}

@@ -1,0 +1,93 @@
+body{
+    background-color: gainsboro;
+}
+header{
+    width: 99.4%;
+    height: 250px;
+    background-color: forestgreen;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+}
+aside{
+    width: 20%;
+    height: 750px;
+    float: left;
+    background-color:   forestgreen;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+main{
+    width: 70%;
+    height: 900px;
+    background-color: rgba(0, 128, 0, 0.63);
+    float: right;
+    margin-right: 1px;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+footer{
+    width: 99.4%;
+    height: 100px;
+    background-color: forestgreen;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+    text-align:center;
+}
+#receita{
+    width: 90%;
+    background-color: darkkhaki;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 5%;
+    
+}
+#pamonha{
+    width: 80%;
+    height: 400px;
+    border-radius: 5px;
+}
+#titulo{
+    width: 90%;
+    background-color: darkkhaki;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 5%;
+}
+#bolodefuba{
+    width: 80%;
+    height: 400px;
+    border-radius: 5px;
+}
+#pedemoleque{
+    width: 80%;
+    height: 400px;
+    border-radius: 5px;
+
+}
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+
+}
+#comidastipicas{
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top:1%;
+    border-radius:5px;
+}
+img{
+    height: 400px;
+}
+#painel{
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    background-color: darkseagreen;
+    border-radius: 10px;
+    text-align: center;
+}
